@@ -18,9 +18,9 @@ public class PrimeiroPrograma {
 		Montadora montadora = new Montadora();
 
 		carro.setNome("Picasso");
-		carro.setAno(2002);
+		carro.setAno(2007);
 
-		motorista.setNome("Fulano de Tal");
+		motorista.setNome("Fulano de Tal da Silva");
 		motorista.setIdade(57);
 		motorista.setCarteira(true);
 
